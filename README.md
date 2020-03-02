@@ -1,6 +1,19 @@
 ## Midterm 1
 **Problem 1**
+import string
+str_ = "Hello World!"
+def scramble(str_):
+    letters = list(string.ascii_letters)
+    new_str = []
+    for x in str_:
+        for i in range(len(letters)):
+            if x == letters[i]:
+                x = letters[i+1] if i < (len(letters) -1) else letters[0]
+                new_str.append(x)
+                break
+            elif x not in letters:
+                new_str.append(x)
+                break
+    return "".join(new_str)               # list -> string
 
-Complete the code below to create a function "scramble" that reads in a string ```str``` and modifies the string as follows: Every letter should be replaced by the next letter in the alphabet. That is 'a' is replaced by 'b', 'b' is replaced by 'c', etc, 'z' is replaced by 'a'. Digits and special characters should remain unchanged. Capitalization should remain unchanged. 
-
-Example: scramble("Hello World!") should result in "Ifmmp Xpsme!"
+scramble(str_)
