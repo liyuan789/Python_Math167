@@ -1,11 +1,21 @@
-## Learning Python3 based on Jupyter Notebook
-|Lessons|
--------------------------------------------
-| 1 | Introduction, Jupyter Notebooks.       |
-| 2 | Basics                                 |
-| 3 | Lists, Tuples, Sets                    |
-| 4 | Strings, Random mudule.                |
-| 5 | Control Flow, Probability Simulations. |
-| 6 | Functions                              |
-| 7 | Dictionaries                           |
-| 8 | Reading and Writing Files              |
+# Python3
+## Jupyter Notebook
+
+- first time
+- second time
+- third time 
+  - indented 
+    1. inner number 
+    
+[this is the description] (http://www.github.com)
+
+This paragraph has some `variable` inlline code
+
+```html
+<p>A paragraph example</p>
+```
+```javascript
+let num = Math.random();
+```
+
+
