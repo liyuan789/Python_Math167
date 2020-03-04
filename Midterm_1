@@ -1,0 +1,4 @@
+
+(a) Gobal variables & Local variables
+If a variable can be reached anywhere in the code is called a global variable. 
+If a variable is known only inside the scope, we call it a local variable.
