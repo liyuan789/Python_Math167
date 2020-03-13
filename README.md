@@ -25,9 +25,23 @@ let num = Math.random();
 Some paragraph with text
 > blockquote text below the paragraph
 
-| heading | hearder | head |
+| Material | Topic | Practice |
 | --- | --- | --- |
-| content | more content | text |
-| more | more | more |
+| Lecture 01 | Basics | text |
+| Lecture 02 | Lists,Tuples,Sets | more |
+| Lecture 03 | Strings, Random module | more |
+| Lecture 04 | Control Flow, Probability Simulations | more |
+| Lecture 05 | Functions | more |
+| Lecture 06 | Dictionaries | more |
+| Lecture 07 | Reading and Writing Files | more |
+| Lecture 08 | NumPy Arrays: slicing, reshaping | more |
+| Lecture 08.05 | NumPy Arrays: aggregating, broadcasting | more |
+| Lecture 09 | SciPy Stats module | more |
+| Lecture 10 | Pandas: Series, Data Frames, Indexing, Slicing | more |
+| Lecture 10.5 | Pandas: algebra on data frames, missing data, Tidying data | more |
+| Lecture 10.5 | Pandas: melt, merge, multi-indexing, groupby | more |
+| Lecture 11 | Matplotlib | more |
+| Lecture 12 | Scikit Learn | more |
+| Lecture 13 | SQL | more |
 
 This is being * created * on a ** Friday ** ~~Saturday~~.
