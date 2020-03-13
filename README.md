@@ -1,13 +1,16 @@
 ## Programming in Python and SQL 
 
-- Introduction: This is a programming course in Python and SQL (Math167ps), which was taught by Dr. Martina Bremer at SJSU. 
+- Introduction: This is a programming course in Python and SQL (Math167ps), which was taught by Dr. Martina Bremer at SJSU. This course is not just about Python and SQL programming. A main goal of this course is to improve our general programming and problem solving skills while reinforcing general statistical concepts.
 
-- Main goal: This course is not just about Python and SQL programming. A main goal of this course is to improve our general programming and problem solving skills while reinforcing general statistical concepts.
+- The Course: Data types, control flow, object-oriented programming, and graphical user interface-driven applications. Relacitonal schemas, writing SQL queries, accessing and designing a database, performing database administration, performing intermediate data base operations.
 
-- second time
-- third time 
-  - indented 
-    1. inner number 
+- Learning Objectives: 
+  - Identify a problem and design a Python program to solve it.
+  - Create executable Python code including loops, decision statments, and functions.
+  - Manipulate data using Python libraries numpy and pandas.
+  - Create meaningful graphs from data using Python library matplotlib.
+  - Design and access a database using SQL queries.
+
     
 [this is the description] (http://www.github.com)
 
