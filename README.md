@@ -1,7 +1,7 @@
-# Python3
-## Jupyter Notebook
+## Programming in Python and SQL [Math167PS]
 
-- first time
+- Introduction: This is a programming course in Python and SQL. Math167PS(2020Spring) was taught by Dr. Martina Bremer at SJSU. This course is not just about Python and SQL programming. A main goal of this course is to improve our general programming and problem solving skills while reinforcing general statistical concepts.
+
 - second time
 - third time 
   - indented 
