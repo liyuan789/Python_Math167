@@ -2,7 +2,10 @@
 
 - Introduction: This is a programming course in Python and SQL (Math167ps), which was taught by Dr. Martina Bremer at SJSU. This course is not just about Python and SQL programming. A main goal of this course is to improve our general programming and problem solving skills while reinforcing general statistical concepts.
 
-- The Course: Data types, control flow, object-oriented programming, and graphical user interface-driven applications. Relacitonal schemas, writing SQL queries, accessing and designing a database, performing database administration, performing intermediate data base operations.
+- About the Course: 
+  - Data types, control flow, object-oriented programming, and graphical user interface-driven applications. 
+  - Relacitonal schemas, writing SQL queries, accessing and designing a database.
+  - Performing database administration, and performing intermediate data base operations.
 
 - Learning Objectives: 
   - Identify a problem and design a Python program to solve it.
@@ -13,15 +16,6 @@
 
     
 [this is the description] (http://www.github.com)
-
-This paragraph has some `variable` inlline code
-
-```html
-<p>A paragraph example</p>
-```
-```javascript
-let num = Math.random();
-```
 
 ![alt text](http://picsum.photos/200/200)
 
