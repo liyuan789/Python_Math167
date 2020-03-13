@@ -1,4 +1,4 @@
-## Programming in Python and SQL [Math167PS]
+## Programming in Python and SQL 
 
 - Introduction: This is a programming course in Python and SQL (Math167ps), which was taught by Dr. Martina Bremer at SJSU. 
 
