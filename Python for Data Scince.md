@@ -1,4 +1,4 @@
-Python for Data Science
+## Python for Data Science
 
 •	NumPy - "Numerical Python". Package for scientific computing. Useful methods of arrays.
 •	Pandas - "Python Data Analysis Library". Useful for cleaning, transforming, analyzing data.
