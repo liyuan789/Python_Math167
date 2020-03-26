@@ -37,8 +37,8 @@ Some paragraph with text
 | Lecture 10 | Pandas: Series, Data Frames, Indexing, Slicing | more |
 | Lecture 10.5 | Pandas: algebra on data frames, missing data, Tidying data | more |
 | Lecture 10.5 | Pandas: melt, merge, multi-indexing, groupby | more |
-| Lecture 11 | Matplotlib | more |
-| Lecture 12 | Scikit Learn | more |
+| Lecture 11 | Matplotlib: Line plots, Scatter plots, Histograms, Bar Graphs | more |
+| Lecture 12 | Scikit Learn: Naive Bayes, k-means clustering, Binary Decision Trees | more |
 | Lecture 13 | SQL | more |
 
-This is being * created * on a ** Friday ** ~~Saturday~~.
+This is being * created * on a ** Friday .
